@@ -1,6 +1,6 @@
 num = float(input("Please enter a number: "))
 
-for numbers in range(1, 9):
+for numbers in range(1, 10):
     num *= numbers
 
 
